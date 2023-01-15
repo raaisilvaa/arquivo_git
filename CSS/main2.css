@@ -7,11 +7,6 @@
 img {
     width: 450px;
     height: 300px;
-
-}
-div li {
-    display: inline;
-
 }
 
 header li {
@@ -21,9 +16,8 @@ header li {
 .container {
     width: 1690px;
     margin: 0 auto;
-
 }
 
 .articles {
-    display: flex;
+    display: 
 }
