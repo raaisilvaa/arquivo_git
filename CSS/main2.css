@@ -19,5 +19,9 @@ header li {
 }
 
 .articles {
-    display: 
+    display: flex;
+}
+
+.articles article {
+    width: 30%;
 }
